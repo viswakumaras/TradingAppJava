@@ -9,3 +9,10 @@ Test case included;
 Test case included;
 ##### Featue 5 : CurrencyConverter
 Test case included;
+##### Problem solved during Coding
+     1.Name convention of class and methods 
+         --Lesson learnt from naresh sir
+     2.Single reusability of method
+         -- Lesson  learnt from naresh sir
+     3.
+  
